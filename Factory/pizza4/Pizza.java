@@ -6,7 +6,7 @@ public abstract class Pizza {
   Veggies veggies[];
   Cheese cheese;
   Pepperoni pepperoni;
-  Clams clam;
+  Clam clam;
 
   abstract void prepare();
 
@@ -32,5 +32,6 @@ public abstract class Pizza {
 
   public String toString() {
     // code to print pizza here
+    return name.toString();
   }
 }

@@ -1,7 +1,7 @@
-public class ClamPizza extends Pizza {
+public class PepperoniPizza extends Pizza {
   PizzaIngredientFactory ingredientFactory;
 
-  public ClamPizza(PizzaIngredientFactory ingredientFactory) {
+  public PepperoniPizza(PizzaIngredientFactory ingredientFactory) {
     this.ingredientFactory = ingredientFactory;
   }
 

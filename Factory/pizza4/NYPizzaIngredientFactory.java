@@ -1,4 +1,4 @@
-public class NYPizzaIngredientFactory implements IngredientFactory {
+public class NYPizzaIngredientFactory implements PizzaIngredientFactory {
 
   public Dough createDough() {
     return new ThinCrustDough();
@@ -21,7 +21,7 @@ public class NYPizzaIngredientFactory implements IngredientFactory {
     return new SlicedPepperoni();
   }
 
-  public Clams createClam() {
+  public Clam createClam() {
     return new FreshClams();
   }
 }
