@@ -1,5 +1,3 @@
-package headfirst.designpatterns.command.remote;
-
 public class RemoteLoader {
  
 	public static void main(String[] args) {

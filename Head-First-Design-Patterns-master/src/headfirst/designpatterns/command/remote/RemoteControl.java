@@ -1,5 +1,3 @@
-package headfirst.designpatterns.command.remote;
-
 //
 // This is the invoker
 //
