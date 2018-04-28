@@ -33,11 +33,11 @@ public class DinerMenu {
     if (numberOfItems >= MAX_ITEMS) {
       System.err.println("Sorry, menu is full! Can't add item to menu");
     }
-    menuItems[numberOfItems] = menuItems;
+    menuItems[numberOfItems] = menuItem;
     numberOfItems = numberOfItems + 1;
   }
 
-  public MenuItems[] getMenuItems() {
+  public MenuItem[] getMenuItems() {
     return menuItems;
   }
 
