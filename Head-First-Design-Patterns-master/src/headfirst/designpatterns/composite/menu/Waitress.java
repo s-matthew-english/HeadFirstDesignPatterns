@@ -1,4 +1,4 @@
-package headfirst.designpatterns.composite.menu;
+
   
 public class Waitress {
 	MenuComponent allMenus;

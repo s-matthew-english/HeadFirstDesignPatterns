@@ -1,5 +1,3 @@
-package headfirst.designpatterns.composite.menu;
-
 import java.util.Iterator;
 import java.util.ArrayList;
 
