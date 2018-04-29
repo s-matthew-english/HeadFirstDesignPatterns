@@ -1,5 +1,3 @@
-package headfirst.designpatterns.state.gumballstate;
-
 public class GumballMachineTestDrive {
 
 	public static void main(String[] args) {

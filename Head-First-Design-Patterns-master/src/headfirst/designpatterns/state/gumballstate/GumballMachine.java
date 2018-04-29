@@ -1,5 +1,3 @@
-package headfirst.designpatterns.state.gumballstate;
-
 public class GumballMachine {
  
 	State soldOutState;

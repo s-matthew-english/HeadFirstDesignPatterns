@@ -1,4 +1,3 @@
-package headfirst.designpatterns.state.gumballstate;
 
 public class SoldOutState implements State {
     GumballMachine gumballMachine;

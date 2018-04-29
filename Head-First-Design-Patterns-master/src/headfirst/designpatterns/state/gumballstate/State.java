@@ -1,4 +1,3 @@
-package headfirst.designpatterns.state.gumballstate;
 
 public interface State {
  
