@@ -1,4 +1,3 @@
-package headfirst.designpatterns.state.gumballstatewinner;
 
 import java.util.Random;
 

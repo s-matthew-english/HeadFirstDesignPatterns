@@ -80,6 +80,7 @@ public class GumballMachine {
 
   public State getWinnerState() {
     return winnerState;
+  }
 
   public String toString() {
     StringBuffer result = new StringBuffer();

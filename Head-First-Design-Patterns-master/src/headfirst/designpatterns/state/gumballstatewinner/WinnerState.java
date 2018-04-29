@@ -1,4 +1,3 @@
-package headfirst.designpatterns.state.gumballstatewinner;
 
 public class WinnerState implements State {
     GumballMachine gumballMachine;
