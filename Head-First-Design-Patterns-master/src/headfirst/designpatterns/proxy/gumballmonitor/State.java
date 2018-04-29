@@ -1,4 +1,3 @@
-package headfirst.designpatterns.proxy.gumballmonitor;
 
 import java.io.*;
 

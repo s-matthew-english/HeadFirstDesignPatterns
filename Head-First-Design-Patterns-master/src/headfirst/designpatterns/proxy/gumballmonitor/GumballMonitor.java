@@ -1,4 +1,3 @@
-package headfirst.designpatterns.proxy.gumballmonitor;
  
 public class GumballMonitor {
 	GumballMachine machine;
