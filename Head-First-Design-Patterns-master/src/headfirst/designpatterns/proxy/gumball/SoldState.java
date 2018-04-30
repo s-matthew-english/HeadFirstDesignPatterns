@@ -1,4 +1,3 @@
-package headfirst.designpatterns.proxy.gumball;
 
 public class SoldState implements State {
 	private static final long serialVersionUID = 2L;

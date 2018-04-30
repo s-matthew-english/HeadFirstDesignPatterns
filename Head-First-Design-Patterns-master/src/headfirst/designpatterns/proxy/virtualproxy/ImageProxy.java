@@ -1,4 +1,3 @@
-package headfirst.designpatterns.proxy.virtualproxy;
 
 import java.net.*;
 import java.awt.*;
