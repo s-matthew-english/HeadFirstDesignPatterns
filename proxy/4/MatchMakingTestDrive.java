@@ -54,6 +54,19 @@ public class MatchMakingTestDrive {
     return (PersonBean)datingDB.get(name);
   }
 
+  void initializeDatabase() {
+    PersonBean joe = new PersonBeanImpl();
+    joe.setName("Joe Javabean");
+    joe.setInterests("cars, computers, music");
+    joe.setHotOrNotRating(7);
+    datingDB(joe.getName(), joe);
+
+    PersonBean kelly = new PersonBeanImpl();
+    kelly.setName("Kelly Klosure");
+    kelly.setInterests("ebay, movies, music");
+    kelly.setHotOrNotRating(6);
+    datingDB.put(kelly.getName(), kelly);
+  }
 }
 
 
