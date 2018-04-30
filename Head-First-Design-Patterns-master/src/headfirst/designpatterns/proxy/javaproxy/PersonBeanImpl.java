@@ -1,4 +1,3 @@
-package headfirst.designpatterns.proxy.javaproxy;
 
 public class PersonBeanImpl implements PersonBean {
 	String name;

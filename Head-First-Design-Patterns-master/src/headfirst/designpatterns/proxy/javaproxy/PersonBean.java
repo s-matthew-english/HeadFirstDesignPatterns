@@ -1,4 +1,3 @@
-package headfirst.designpatterns.proxy.javaproxy;
 
 public interface PersonBean {
  

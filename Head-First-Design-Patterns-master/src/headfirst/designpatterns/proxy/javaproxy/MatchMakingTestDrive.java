@@ -1,4 +1,3 @@
-package headfirst.designpatterns.proxy.javaproxy;
 
 import java.lang.reflect.*;
 import java.util.*;
