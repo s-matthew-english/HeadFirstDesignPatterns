@@ -1,4 +1,3 @@
-package headfirst.designpatterns.combining.observer;
 
 public class RubberDuck implements Quackable {
 	Observable observable;
