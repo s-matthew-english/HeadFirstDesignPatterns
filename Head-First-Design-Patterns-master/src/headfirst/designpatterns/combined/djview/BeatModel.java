@@ -1,4 +1,3 @@
-package headfirst.designpatterns.combined.djview;
 
 import javax.sound.midi.*;
 

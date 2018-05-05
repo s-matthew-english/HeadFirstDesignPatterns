@@ -1,4 +1,3 @@
-package headfirst.designpatterns.combined.djview;
   
 public interface BeatModelInterface {
 	void initialize();
@@ -17,5 +16,4 @@ public interface BeatModelInterface {
   
 	void registerObserver(BPMObserver o);
   
-	void removeObserver(BPMObserver o);
 }

@@ -1,5 +1,3 @@
-package headfirst.designpatterns.combined.djview;
-    
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

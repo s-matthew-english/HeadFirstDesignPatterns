@@ -1,3 +1,3 @@
 public interface BeatObserver {
-	void updateBeat();
+  void updateBeat();
 }

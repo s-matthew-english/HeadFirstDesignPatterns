@@ -1,4 +1,3 @@
-package headfirst.designpatterns.combined.djview;
   
 public interface ControllerInterface {
 	void start();
